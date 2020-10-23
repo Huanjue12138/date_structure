@@ -1,0 +1,2 @@
+# def bsct(nums,value) :
+
